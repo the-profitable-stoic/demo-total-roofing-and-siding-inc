@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "Total Roofing and Siding Inc.",
+    "phone": "+12676946921",
+    "category": "siding installer",
+    "city": "Philadelphia",
+    "state": "PA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Philly's Siding Experts",
+      "heroSubline": "Protecting homes with quality siding installation and repair. Decades of experience handling Philadelphia's unique housing challenges.",
+      "aboutTitle": "Built on Philly Grit",
+      "aboutText": [
+        "Total Roofing and Siding Inc. was founded on the principles of hard work, integrity, and a commitment to providing Philadelphia homeowners with durable and beautiful siding solutions. We understand the challenges posed by Philly's climate and the unique architecture of our homes.",
+        "We're not just installers; we're problem-solvers. Our team brings decades of combined experience to every project, ensuring meticulous workmanship and using only the highest-quality materials that stand up to the test of time and weather.",
+        "We’re invested in our community. From historic row homes in South Philly to Victorian twins in West Philly, we treat every home as if it were our own. We're dedicated to providing honest, reliable service that keeps Philadelphia looking its best."
+      ],
+      "valueProps": [
+        {
+          "title": "Local Expertise",
+          "description": "Deep understanding of Philadelphia's weather, architecture, and building codes."
+        },
+        {
+          "title": "Quality Materials",
+          "description": "We source durable, weather-resistant siding that lasts for decades."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures precise and secure siding installation."
+        },
+        {
+          "title": "Customer Satisfaction",
+          "description": "We're committed to exceeding your expectations with exceptional service."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Get a free, no-obligation siding consultation. Call us now!"
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable and affordable siding solutions for Philadelphia homes.",
+        "description": "Vinyl siding remains a popular choice for Philadelphia homeowners due to its affordability, versatility, and low maintenance. We offer a wide variety of vinyl siding styles and colors to complement any architectural style, from classic row homes to modern condos. Our expert installation ensures a weather-tight seal, protecting your home from moisture, drafts, and pests. We handle every aspect of the installation, from removing old siding to installing new trim and flashing, ensuring a seamless and professional finish.\n\nWe understand the challenges of Philadelphia's freeze-thaw cycles and choose vinyl siding products specifically designed to withstand these conditions. Our experienced installers pay close attention to detail, ensuring proper expansion and contraction to prevent warping or cracking. We also offer insulated vinyl siding options for enhanced energy efficiency, helping you save money on heating and cooling costs. We properly dispose of all old siding materials, leaving your property clean and tidy. We work closely with you to select the perfect vinyl siding to enhance your home's curb appeal and protect it for years to come.\n\nWe source our vinyl siding from trusted manufacturers known for their quality and durability. We offer extended warranties on both materials and workmanship, providing you with peace of mind knowing your investment is protected. Our team is committed to providing exceptional service and ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Initial consultation and property assessment",
+          "Step 2: Siding selection and design planning",
+          "Step 3: Removal of old siding and preparation of surfaces",
+          "Step 4: Installation of new vinyl siding, trim, and flashing"
+        ],
+        "benefits": [
+          "Enhanced curb appeal",
+          "Improved energy efficiency",
+          "Low maintenance",
+          "Weather protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding installation take?",
+            "answer": "The duration depends on the size and complexity of the project, but most installations are completed within a week."
+          },
+          {
+            "question": "What are the benefits of insulated vinyl siding?",
+            "answer": "Insulated vinyl siding provides enhanced energy efficiency, reducing heating and cooling costs. It also improves soundproofing and impact resistance."
+          },
+          {
+            "question": "How do I clean my vinyl siding?",
+            "answer": "Vinyl siding can be easily cleaned with soap and water and a soft brush. Avoid using harsh chemicals or pressure washers, which can damage the siding."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable, fire-resistant siding that mimics the look of wood.",
+        "description": "Fiber cement siding is a premium siding option that offers exceptional durability, fire resistance, and aesthetic appeal. Made from a blend of cement, sand, and cellulose fibers, fiber cement siding provides superior protection against the elements, including moisture, pests, and fire. It's an excellent choice for Philadelphia homeowners who want a long-lasting and low-maintenance siding solution that resembles the look of natural wood.\n\nWe are certified installers of leading fiber cement siding brands, ensuring proper installation and adherence to manufacturer specifications. Our experienced team handles every aspect of the installation process, from removing old siding to installing new trim and flashing. We pay close attention to detail, ensuring a seamless and professional finish. We also offer a variety of fiber cement siding styles and colors to complement any architectural style, whether it's a historic row home or a modern condo.\n\nFiber cement siding is particularly well-suited for Philadelphia's climate, as it's resistant to moisture damage, rot, and insect infestation. It also provides excellent fire protection, which is especially important in densely populated urban areas. With proper maintenance, fiber cement siding can last for decades, making it a worthwhile investment for your home.",
+        "process": [
+          "Step 1: Consultation and design selection",
+          "Step 2: Precise measurements and material ordering",
+          "Step 3: Careful removal of existing siding",
+          "Step 4: Expert fiber cement siding installation"
+        ],
+        "benefits": [
+          "Exceptional durability",
+          "Fire resistance",
+          "Low maintenance",
+          "Wood-like appearance"
+        ],
+        "faq": [
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is generally more expensive than vinyl siding, but it offers superior durability and longevity."
+          },
+          {
+            "question": "Does fiber cement siding require painting?",
+            "answer": "Fiber cement siding comes pre-painted, but it can be repainted to refresh the color or change the look of your home."
+          },
+          {
+            "question": "How long does fiber cement siding last?",
+            "answer": "With proper installation and maintenance, fiber cement siding can last for 50 years or more."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair",
+        "shortDescription": "Expert siding repair services to protect your home from the elements.",
+        "description": "Damaged siding can compromise your home's protection and curb appeal. We offer comprehensive siding repair services to address a wide range of issues, from minor cracks and dents to major storm damage. Our experienced technicians can quickly assess the damage and provide effective repair solutions to restore your siding to its original condition.\n\nWe understand the challenges posed by Philadelphia's weather, including harsh winters, hot summers, and occasional storms. These conditions can cause siding to crack, warp, or become dislodged. We use high-quality materials and proven repair techniques to ensure a durable and long-lasting repair. We also offer emergency siding repair services to address urgent issues, such as storm damage or water leaks.\n\nWhether you have vinyl siding, fiber cement siding, or wood siding, we have the expertise to handle any repair job. We also offer siding replacement services for sections that are beyond repair. Our goal is to provide you with affordable and reliable siding repair solutions that protect your home and enhance its value.",
+        "process": [
+          "Step 1: Thorough inspection of damaged siding",
+          "Step 2: Accurate damage assessment and repair plan",
+          "Step 3: Professional repair or replacement of affected areas",
+          "Step 4: Quality assurance and final inspection"
+        ],
+        "benefits": [
+          "Prevents further damage",
+          "Maintains curb appeal",
+          "Extends siding lifespan",
+          "Cost-effective solution"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Signs of siding damage include cracks, dents, warping, discoloration, and loose or missing panels."
+          },
+          {
+            "question": "Can I repair siding myself?",
+            "answer": "While minor repairs may be possible for homeowners, it's best to hire a professional for significant damage to ensure proper installation and prevent further problems."
+          },
+          {
+            "question": "How much does siding repair cost?",
+            "answer": "The cost of siding repair depends on the extent of the damage and the type of siding. We offer free estimates to assess your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair",
+        "shortDescription": "Protecting your roofline with expert soffit and fascia repair.",
+        "description": "Soffit and fascia are essential components of your home's roofline, providing protection against moisture, pests, and the elements. Damaged soffit and fascia can lead to water damage, wood rot, and pest infestations. We offer comprehensive soffit and fascia repair services to ensure your roofline is properly protected.\n\nWe understand the unique challenges posed by Philadelphia's climate, including heavy rain, snow, and ice. These conditions can cause soffit and fascia to deteriorate over time. We use high-quality materials and proven repair techniques to ensure a durable and long-lasting repair. We also offer soffit and fascia replacement services for sections that are beyond repair.\n\nOur experienced technicians can quickly assess the damage and provide effective repair solutions. We also offer soffit and fascia installation services for new construction or remodeling projects. We work closely with you to select the perfect soffit and fascia to complement your home's architectural style.",
+        "process": [
+          "Step 1: Detailed inspection of soffit and fascia",
+          "Step 2: Identification of damage and problem areas",
+          "Step 3: Precise repair or replacement of damaged components",
+          "Step 4: Sealing and weatherproofing for lasting protection"
+        ],
+        "benefits": [
+          "Prevents water damage",
+          "Deters pests",
+          "Enhances curb appeal",
+          "Extends roof lifespan"
+        ],
+        "faq": [
+          {
+            "question": "What are soffit and fascia?",
+            "answer": "Soffit is the material that covers the underside of your roof overhang, while fascia is the vertical board that runs along the edge of your roof."
+          },
+          {
+            "question": "How do I know if my soffit and fascia need repair?",
+            "answer": "Signs of damage include rotting wood, peeling paint, water stains, and pest infestations."
+          },
+          {
+            "question": "What are the benefits of replacing my soffit and fascia?",
+            "answer": "Replacing damaged soffit and fascia can improve your home's energy efficiency, prevent water damage, and enhance its curb appeal."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Siding Replacement",
+        "shortDescription": "Complete siding replacement services to revitalize your home's exterior.",
+        "description": "When siding is severely damaged or outdated, replacement is the best option to protect your home and enhance its curb appeal. We offer comprehensive siding replacement services, providing you with a wide range of siding options to choose from. Our experienced team handles every aspect of the replacement process, from removing old siding to installing new siding, trim, and flashing.\n\nWe understand the importance of selecting the right siding for your home's architectural style and your personal preferences. We offer a variety of siding materials, including vinyl, fiber cement, and wood, in a wide range of colors and styles. We also offer insulated siding options for enhanced energy efficiency.\n\nOur expert installers ensure a weather-tight seal, protecting your home from moisture, drafts, and pests. We also properly dispose of all old siding materials, leaving your property clean and tidy. We work closely with you to select the perfect siding to enhance your home's curb appeal and protect it for years to come.",
+        "process": [
+          "Step 1: In-depth consultation and siding selection",
+          "Step 2: Removal of old, damaged siding",
+          "Step 3: Expert installation of new siding and components",
+          "Step 4: Thorough cleanup and debris removal"
+        ],
+        "benefits": [
+          "Improved curb appeal",
+          "Increased home value",
+          "Enhanced energy efficiency",
+          "Long-lasting protection"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration depends on the size and complexity of the project, but most replacements are completed within a week."
+          },
+          {
+            "question": "What are the benefits of replacing my siding?",
+            "answer": "Replacing your siding can improve your home's appearance, increase its value, enhance its energy efficiency, and protect it from the elements."
+          },
+          {
+            "question": "How much does siding replacement cost?",
+            "answer": "The cost of siding replacement depends on the size of your home, the type of siding you choose, and the complexity of the installation. We offer free estimates to assess your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-repair",
+        "name": "Storm Damage Repair",
+        "shortDescription": "Fast and reliable siding repair after severe weather events.",
+        "description": "Philadelphia's weather can be unpredictable, and severe storms can cause significant damage to your home's siding. We offer fast and reliable storm damage repair services to help you restore your home to its original condition. Our experienced team can quickly assess the damage and provide effective repair solutions to protect your home from further damage.\n\nWe understand the urgency of storm damage repair and offer 24/7 emergency services. We work closely with insurance companies to expedite the claims process and ensure you receive the coverage you deserve. Our goal is to provide you with peace of mind knowing your home is in good hands.\n\nWhether your siding has been damaged by wind, hail, or falling debris, we have the expertise to handle any repair job. We also offer siding replacement services for sections that are beyond repair. Our team is committed to providing exceptional service and ensuring your complete satisfaction.",
+        "process": [
+          "Step 1: Emergency assessment of storm damage",
+          "Step 2: Securing the property to prevent further damage",
+          "Step 3: Collaboration with insurance providers for claims",
+          "Step 4: Efficient and effective siding repair or replacement"
+        ],
+        "benefits": [
+          "Rapid response",
+          "Insurance assistance",
+          "Comprehensive repairs",
+          "Peace of mind"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if my siding is damaged in a storm?",
+            "answer": "Contact us immediately for emergency assessment and repair services. We can also help you file an insurance claim."
+          },
+          {
+            "question": "How long does storm damage repair take?",
+            "answer": "The duration depends on the extent of the damage, but we strive to complete repairs as quickly as possible to minimize disruption to your life."
+          },
+          {
+            "question": "Will my insurance cover storm damage repair?",
+            "answer": "Most homeowner's insurance policies cover storm damage repair. We work closely with insurance companies to ensure you receive the coverage you deserve."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Philadelphia",
+        "slug": "philadelphia-pa",
+        "state": "PA",
+        "content": "Total Roofing and Siding Inc. is proud to offer comprehensive siding installation services to homeowners and businesses throughout Philadelphia. We understand the unique challenges that Philadelphia's diverse architecture and weather patterns present, and we tailor our siding solutions to meet those specific needs. Whether you're looking to upgrade your home's curb appeal, improve energy efficiency, or protect your property from the elements, our team of experienced professionals is here to help.\n\nWe offer a wide selection of siding materials, including vinyl, fiber cement, wood, and aluminum, ensuring that you find the perfect fit for your style and budget. Our commitment to quality craftsmanship and customer satisfaction means you can trust us to deliver exceptional results that will last for years to come. We are dedicated to providing expert siding services to the entire Philadelphia area.\n\nFrom historic neighborhoods to modern developments, Total Roofing and Siding Inc. has the expertise to handle any siding project in Philadelphia. We pride ourselves on our attention to detail and our ability to work closely with our clients to achieve their vision.",
+        "localContext": "Philadelphia is a vibrant city with a rich history and diverse architectural styles, requiring siding solutions that are both aesthetically pleasing and durable enough to withstand the elements. Total Roofing and Siding Inc. understands these local needs and provides tailored siding options to suit every property.",
+        "nearbyAreas": [
+          "Norristown",
+          "Camden",
+          "Upper Darby"
+        ]
+      },
+      {
+        "city": "Norristown",
+        "slug": "norristown-pa",
+        "state": "PA",
+        "content": "Total Roofing and Siding Inc. extends its expert siding services to the borough of Norristown, PA. We recognize the importance of quality siding in protecting homes and businesses from the elements, and we are dedicated to providing Norristown residents with reliable and affordable solutions. Our team is experienced in handling a variety of siding projects, from minor repairs to complete installations.\n\nWe offer a wide range of siding options to suit any style and budget, including vinyl, fiber cement, and wood siding. Our commitment to quality and customer satisfaction ensures that your siding project will be completed to the highest standards. Total Roofing and Siding Inc. uses only the best materials and employs skilled installers to deliver lasting results.\n\nWhether you're looking to enhance your home's curb appeal or improve its energy efficiency, Total Roofing and Siding Inc. is the right choice for your siding needs in Norristown. We are committed to providing personalized service and expert advice to help you make the best decision for your property.",
+        "localContext": "Norristown, PA, with its mix of historic homes and modern developments, requires siding solutions that blend seamlessly with the existing architecture while providing superior protection. Total Roofing and Siding Inc. is equipped to meet these needs with a range of siding options and expert installation services.",
+        "nearbyAreas": [
+          "King of Prussia",
+          "Conshohocken",
+          "Plymouth Meeting"
+        ]
+      },
+      {
+        "city": "Upper Darby",
+        "slug": "upper-darby-pa",
+        "state": "PA",
+        "content": "Total Roofing and Siding Inc. proudly serves the diverse community of Upper Darby, PA, offering top-notch siding installation and repair services. We understand the unique needs of homeowners in Upper Darby, and we are committed to providing them with reliable and affordable siding solutions. Our team of experienced professionals is equipped to handle any siding project, big or small.\n\nWe offer a wide selection of siding materials, including vinyl, fiber cement, and wood, to match any style and budget. Our commitment to quality craftsmanship and customer satisfaction means you can trust us to deliver exceptional results that will last for years to come. Total Roofing and Siding Inc. is dedicated to providing personalized service and expert advice to help you make the best decision for your home.\n\nFrom historic homes to modern developments, Total Roofing and Siding Inc. has the expertise to handle any siding project in Upper Darby. We pride ourselves on our attention to detail and our ability to work closely with our clients to achieve their vision.",
+        "localContext": "Upper Darby, PA, is a diverse and vibrant community with a mix of housing styles, requiring siding solutions that are both aesthetically pleasing and durable. Total Roofing and Siding Inc. provides a range of siding options to suit every property and budget.",
+        "nearbyAreas": [
+          "Drexel Hill",
+          "Clifton Heights",
+          "Lansdowne"
+        ]
+      },
+      {
+        "city": "Drexel Hill",
+        "slug": "drexel-hill-pa",
+        "state": "PA",
+        "content": "Total Roofing and Siding Inc. offers professional siding installation and repair services to the residents of Drexel Hill, PA. We understand the importance of quality siding in protecting your home from the elements and enhancing its curb appeal. Our team of experienced professionals is dedicated to providing Drexel Hill homeowners with reliable and affordable siding solutions.\n\nWe offer a wide range of siding materials, including vinyl, fiber cement, and wood, to match any style and budget. Our commitment to quality craftsmanship and customer satisfaction means you can trust us to deliver exceptional results that will last for years to come. Total Roofing and Siding Inc. is dedicated to providing personalized service and expert advice to help you make the best decision for your home.\n\nWhether you're looking to replace old, worn-out siding or simply upgrade your home's appearance, Total Roofing and Siding Inc. is the right choice for your siding needs in Drexel Hill. We pride ourselves on our attention to detail and our commitment to exceeding our customers' expectations.",
+        "localContext": "Drexel Hill, PA, is a well-established community with a variety of housing styles, requiring siding solutions that are both durable and aesthetically pleasing. Total Roofing and Siding Inc. is committed to providing Drexel Hill homeowners with the best siding options available.",
+        "nearbyAreas": [
+          "Upper Darby",
+          "Havertown",
+          "Springfield"
+        ]
+      },
+      {
+        "city": "King of Prussia",
+        "slug": "king-of-prussia-pa",
+        "state": "PA",
+        "content": "Total Roofing and Siding Inc. is proud to offer its expert siding services to the community of King of Prussia, PA. We understand the importance of quality siding in protecting homes and businesses from the elements, and we are dedicated to providing King of Prussia residents with reliable and affordable solutions. Our team is experienced in handling a variety of siding projects, from minor repairs to complete siding installations.\n\nWe offer a wide range of siding options to suit any style and budget, including vinyl, fiber cement, and wood siding. Our commitment to quality and customer satisfaction ensures that your siding project will be completed to the highest standards. Total Roofing and Siding Inc. uses only the best materials and employs skilled installers to deliver lasting results.\n\nWhether you're looking to enhance your home's curb appeal or protect your business from the elements, Total Roofing and Siding Inc. is the right choice for your siding needs in King of Prussia. We are committed to providing personalized service and expert advice to help you make the best decision for your property.",
+        "localContext": "King of Prussia, PA, is a growing area with a mix of residential and commercial properties, requiring siding solutions that are both durable and aesthetically appealing. Total Roofing and Siding Inc. is equipped to meet these needs with a range of siding options and expert installation services.",
+        "nearbyAreas": [
+          "Norristown",
+          "Wayne",
+          "Conshohocken"
+        ]
+      },
+      {
+        "city": "Wayne",
+        "slug": "wayne-pa",
+        "state": "PA",
+        "content": "Total Roofing and Siding Inc. provides expert siding services to homeowners and businesses in Wayne, PA. We understand the importance of quality siding in maintaining the beauty and integrity of your property, and we are committed to providing Wayne residents with reliable and affordable solutions. Our team of experienced professionals is equipped to handle any siding project, big or small.\n\nWe offer a wide selection of siding materials, including vinyl, fiber cement, and wood, to match any style and budget. Our commitment to quality craftsmanship and customer satisfaction means you can trust us to deliver exceptional results that will last for years to come. Total Roofing and Siding Inc. is dedicated to providing personalized service and expert advice to help you make the best decision for your home or business.\n\nFrom historic homes to modern commercial buildings, Total Roofing and Siding Inc. has the expertise to handle any siding project in Wayne. We pride ourselves on our attention to detail and our ability to work closely with our clients to achieve their vision.",
+        "localContext": "Wayne, PA, is an affluent community with a mix of historic and modern architecture, requiring siding solutions that are both elegant and durable. Total Roofing and Siding Inc. is committed to providing Wayne residents with the highest quality siding options and expert installation services.",
+        "nearbyAreas": [
+          "Radnor",
+          "King of Prussia",
+          "Berwyn"
+        ]
+      },
+      {
+        "city": "West Chester",
+        "slug": "west-chester-pa",
+        "state": "PA",
+        "content": "Total Roofing and Siding Inc. is pleased to extend its comprehensive siding services to the borough of West Chester, PA. We understand the specific needs of homeowners and businesses in West Chester, and we are dedicated to providing reliable and affordable siding solutions. Our experienced team is equipped to handle a variety of siding projects, from minor repairs to complete installations.\n\nWe offer a wide range of siding options to suit any style and budget, including vinyl, fiber cement, and wood siding. Our commitment to quality and customer satisfaction ensures that your siding project will be completed to the highest standards. Total Roofing and Siding Inc. uses only the best materials and employs skilled installers to deliver lasting results.\n\nWhether you're looking to enhance your home's curb appeal or protect your business from the elements, Total Roofing and Siding Inc. is the right choice for your siding needs in West Chester. We are committed to providing personalized service and expert advice to help you make the best decision for your property.",
+        "localContext": "West Chester, PA, is a historic borough with a mix of architectural styles, requiring siding solutions that are both aesthetically pleasing and durable enough to withstand the elements. Total Roofing and Siding Inc. provides tailored siding options to suit every property.",
+        "nearbyAreas": [
+          "Downingtown",
+          "Exton",
+          "Kennett Square"
+        ]
+      },
+      {
+        "city": "Downingtown",
+        "slug": "downingtown-pa",
+        "state": "PA",
+        "content": "Total Roofing and Siding Inc. offers professional siding installation and repair services to the residents and businesses of Downingtown, PA. We understand the importance of quality siding in protecting properties from the elements and enhancing their aesthetic appeal. Our team of experienced professionals is dedicated to providing Downingtown with reliable and affordable siding solutions.\n\nWe offer a wide range of siding materials, including vinyl, fiber cement, and wood, to match any style and budget. Our commitment to quality craftsmanship and customer satisfaction means you can trust us to deliver exceptional results that will last for years to come. Total Roofing and Siding Inc. is dedicated to providing personalized service and expert advice to help you make the best decision for your home or business.\n\nWhether you're looking to replace old, worn-out siding or simply upgrade your property's appearance, Total Roofing and Siding Inc. is the right choice for your siding needs in Downingtown. We pride ourselves on our attention to detail and our commitment to exceeding our customers' expectations.",
+        "localContext": "Downingtown, PA, is a growing community with a mix of residential and commercial properties, requiring siding solutions that are both durable and aesthetically versatile. Total Roofing and Siding Inc. is committed to providing Downingtown residents with top-quality siding options and expert installation.",
+        "nearbyAreas": [
+          "West Chester",
+          "Coatesville",
+          "Exton"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "Total Roofing and Siding did an amazing job on our row home in South Philly! The new vinyl siding looks fantastic and has really updated the look of the whole block. The team was professional, efficient, and cleaned up everything perfectly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some storm damage on our fiber cement siding in Chestnut Hill. Total Roofing and Siding came out quickly and repaired the damaged sections seamlessly. You can't even tell there was any damage! Great work.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica L.",
+        "rating": 5,
+        "service": "Soffit and Fascia Repair",
+        "text": "Our soffit was rotting, and we were worried about water damage. Total Roofing and Siding replaced the damaged sections promptly and professionally. Their team was courteous and explained everything clearly. I'll be calling them again for future needs.",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Siding Replacement",
+        "text": "After getting several quotes, we chose Total Roofing and Siding to replace the siding on our Victorian twin in West Philly. They were the most knowledgeable and offered the best price. The new fiber cement siding looks beautiful, and we've already noticed a difference in our energy bills!",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Vinyl Siding Installation",
+        "text": "Total Roofing and Siding did a great job on my home. They were friendly, professional, and got the job done quickly. There was a slight delay due to weather, but they communicated well and kept me informed throughout the process. I am very happy with the results!",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Michael D.",
+        "rating": 5,
+        "service": "Storm Damage Repair",
+        "text": "After a particularly bad Nor'easter, our siding was a mess. Total Roofing and Siding responded quickly, assessed the damage, and worked with our insurance company to get everything fixed. They made a stressful situation much easier to handle.",
+        "date": "2024-12-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Total Roofing and Siding Inc.",
+        "description": "Philadelphia's trusted siding installer. Expert vinyl, fiber cement, & siding repair. Free quotes!"
+      },
+      "about": {
+        "title": "About Us | Total Roofing and Siding",
+        "description": "Learn about Total Roofing and Siding Inc.'s commitment to quality siding in Philadelphia."
+      },
+      "services": {
+        "title": "Siding Services | Total Roofing and Siding",
+        "description": "Vinyl, Fiber Cement, Siding Repair & More. Protect Your Philadelphia Home Now!"
+      },
+      "contact": {
+        "title": "Contact Us | Total Roofing and Siding",
+        "description": "Get a Free Siding Quote. Call Total Roofing and Siding in Philadelphia Today!"
+      },
+      "reviews": {
+        "title": "Reviews | Total Roofing and Siding",
+        "description": "Read what our Philadelphia customers are saying about Total Roofing and Siding Inc."
+      },
+      "service-areas": {
+        "title": "Service Areas | Total Roofing and Siding",
+        "description": "Total Roofing and Siding provides expert siding services throughout the Philadelphia area."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "storm-damage-repair": "/images/service-storm-damage-repair.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-repair": {
+        "src": "/images/service-storm-damage-repair.webp",
+        "srcset": "/images/service-storm-damage-repair-400w.webp 400w, /images/service-storm-damage-repair-800w.webp 800w, /images/service-storm-damage-repair-1200w.webp 1200w, /images/service-storm-damage-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

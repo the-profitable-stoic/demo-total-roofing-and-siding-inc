@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-total-roofing-and-siding-inc.dream-surge.com/sitemap-index.xml
